@@ -15,3 +15,5 @@ touch README.md
 
 
 echo "Directory and files created successfully."
+
+#start env -> source /d/Users/anaconda3/etc/profile.d/conda.sh && conda activate medibot

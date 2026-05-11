@@ -277,12 +277,14 @@ When implemented, link each item to a PR, issue, or commit.
 - Add authentication and per-user rate limits.
 - Add CI pipeline for linting, testing, and Docker image validation.
 
-## Screenshot Strategy
+
 
 <!--
+
+## Screenshot Strategy
 Use this strategy to make the repository visually credible without turning the README
 into a marketing page.
--->
+
 
 Recommended screenshots:
 
@@ -314,7 +316,7 @@ Keep the diagram focused on system boundaries, not every function call.
 <!--
 This section is intentionally reusable. Keep it near the bottom so the README remains
 project-first while still helping future maintainers polish the repository.
--->
+--
 
 - Add a real deployment link if the project can be safely hosted.
 - Add a short demo video or GIF under 60 seconds.
@@ -324,6 +326,8 @@ project-first while still helping future maintainers polish the repository.
 - Add CI status badges only after CI is actually configured.
 - Keep commit history clean and use PR-style descriptions for major changes.
 - Mention tradeoffs clearly; mature engineers explain constraints, not only outcomes.
+
+-->
 
 ## Contributing
 
