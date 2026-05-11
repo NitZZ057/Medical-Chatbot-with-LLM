@@ -16,6 +16,10 @@ and a strong architecture signal should be visible without scrolling too far.
 
 > This project demonstrates an end-to-end RAG workflow: PDF ingestion, semantic chunking, vector indexing, context retrieval, and grounded LLM response generation through a lightweight web interface.
 
+## About
+
+Medical Chatbot with LLM is an AI-powered question-answering application that uses retrieval-augmented generation to provide concise responses from a medical PDF knowledge base. It combines semantic search, vector storage, and LLM-based generation to demonstrate how domain-specific assistants can be built with grounded context instead of relying only on model memory.
+
 <!--
 ## Demo & Screenshots
 
